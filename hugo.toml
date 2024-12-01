@@ -2,3 +2,22 @@ baseURL = 'https://cranesCaptiv.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'dead-simple'
+tags = [
+    "starter-tag",
+    "test-tag",
+]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 10
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
