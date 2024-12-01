@@ -1,4 +1,4 @@
-baseURL = 'https://cranesCaptiv.github.io/blog/'
+baseURL = 'https://cranes-Captiv.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'dead-simple'
