@@ -14,10 +14,10 @@ tags = [
 
 [menu]
   [[menu.main]]
-    name = "Tags"
+    name = "Tags[t]"
     url = "/tags/"
     weight = 10
   [[menu.main]]
-    name = "Home"
+    name = "Home[h]"
     url = "/"
     weight = 10
